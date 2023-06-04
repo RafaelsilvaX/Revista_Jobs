@@ -1,0 +1,61 @@
+body {
+    background: linear-gradient(to bottom, #808080, #000)
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 35px;
+}
+
+
+.revista {
+    width: 700px;
+    left: 700px;
+    border-radius: 50px 50px;
+}
+
+figure {
+    text-align: center;
+}
+
+footer {
+
+    background-color: to bottom, #000;
+    color: #808080;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.link {
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    left: 15px;
+    padding: 0;
+    margin: 01px;
+    border: 10px;
+}
+
+a{
+    
+    color: #fff;
+   text-decoration: none;
+   text-align: center;
+}
+a:hover{
+    color: #00a8ff;
+}
+
+.bandeiras{
+    width: 50px;
+    left: 50px;
+   display: flex;
+   flex-direction: column;
+}
+
+
